@@ -14,15 +14,15 @@ Our findings suggest that earlier layers in LLMs **tend to produce more creative
 
 ### Clone repo:
 ```bash
-git clone git@github.com:facebookresearch/LayerSkip.git
-cd LayerSkip
+git clone git@github.com:ZicongHe2002/Shakespearean-Sparks-The-Dance-of-Hallucination-and-Creativity-in-LLMs-Decoding-Layers.git
+cd code
 
 ```
 
 ### Setup environment:
 ```bash
-conda create --name layer_skip python=3.10
-conda activate layer_skip
+conda create --name Spark python=3.10
+conda activate Spark
 pip install -r requirements.txt
 ```
 ## Methodology
