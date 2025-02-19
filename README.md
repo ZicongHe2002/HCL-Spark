@@ -9,12 +9,13 @@ To systematically investigate this relationship, we propose **HCL (Hallucination
 - **Determines** the optimal decoding layer that balances both aspects.
 
 Our findings suggest that earlier layers in LLMs **tend to produce more creative outputs**, while deeper layers prioritize factual accuracy. Leveraging this insight, we introduce a **layer-wise early-exit strategy** to enhance **computational efficiency** without sacrificing quality.
+
 ## Getting Started
 
 ### Clone repo:
 ```bash
-$ git clone git@github.com:facebookresearch/LayerSkip.git
-$ cd LayerSkip
+git clone git@github.com:facebookresearch/LayerSkip.git
+cd LayerSkip
 
 
 $ conda create --name layer_skip python=3.10
@@ -22,7 +23,7 @@ $ conda activate layer_skip
 
 $ pip install -r requirements.txt
 
-
+` ``` `
 ## Methodology
 Our research is built upon a **three-stage evaluation process**:
 1. **Layer-wise Response Sampling**: Using an early-exit strategy to extract responses at different layers.
