@@ -21,8 +21,8 @@ cd code
 
 ### Setup environment:
 ```bash
-conda create --name Spark python=3.10
-conda activate Spark
+conda create --name hcl_spark python=3.10
+conda activate hcl_spark
 pip install -r requirements.txt
 ```
 
