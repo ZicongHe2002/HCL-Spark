@@ -1,4 +1,11 @@
-# Shakespearean-Sparks-The-Dance-of-Hallucination-and-Creativity-in-LLMs-Decoding-Layers
+<h1 align='center'>
+Shakespearean-Sparks-The-Dance-of-Hallucination-and-Creativity-in-LLMs-Decoding-Layers
+</h1>
+
+<p align='center'>
+<a href=""><img src="https://img.shields.io/badge/arXiv-2502.00000-b31b1b.svg" alt="ArXiv"></a> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="Liscence"></a>
+
+</p>
 
 ## Overview
 This project explores the intricate relationship between **hallucination** and **creativity** in Large Language Models (LLMs) at different decoding layers. While hallucination is often considered a flaw, our study provides a **quantitative perspective** that reveals its potential contribution to **creative outputs**.
