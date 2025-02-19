@@ -7,6 +7,12 @@ Shakespearean-Sparks-The-Dance-of-Hallucination-and-Creativity-in-LLMs-Decoding-
 
 </p>
 
+This repository contains the source codes for reproducing the results of the paper: [**Shakespearean-Sparks-The-Dance-of-Hallucination-and-Creativity-in-LLMs-Decoding-Layers**]().
+
+**Author List**: *Zicong He, *Boxuan Zhang, Lu Cheng.
+
+(* Equal Contribution)
+
 ## Overview
 This project explores the intricate relationship between **hallucination** and **creativity** in Large Language Models (LLMs) at different decoding layers. While hallucination is often considered a flaw, our study provides a **quantitative perspective** that reveals its potential contribution to **creative outputs**.
 
