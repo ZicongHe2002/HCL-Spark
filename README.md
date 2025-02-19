@@ -25,6 +25,11 @@ conda create --name Spark python=3.10
 conda activate Spark
 pip install -r requirements.txt
 ```
+
+### Run
+```bash
+./generate0.sh
+```
 ## Methodology
 Our research is built upon a **three-stage evaluation process**:
 1. **Layer-wise Response Sampling**: Using an early-exit strategy to extract responses at different layers.
