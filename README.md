@@ -1,5 +1,5 @@
 <h1 align='center'>
-Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs Decoding Layers
+Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs' Decoding Layers
 </h1>
 
 <p align='center'>
@@ -7,7 +7,7 @@ Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs Decoding
 
 </p>
 
-This repository contains the source codes for reproducing the results of the paper: [**Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs Decoding Layers**]().
+This repository contains the source codes for reproducing the results of the paper: [**Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs' Decoding Layers**]().
 
 **Author List**: *Zicong He, *Boxuan Zhang, Lu Cheng.
 
