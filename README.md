@@ -66,5 +66,8 @@ We conduct experiments using **open-weight LLMs**, including:
 
 Our dataset sources include **TriviaQA** and **Natural Questions (NQ)**, ensuring a diverse benchmark for creativity and hallucination evaluation.
 
+## Acknowledgements
+We sincerely thank the following authors, and HCL is based on their excellent open-source projects or impressive ideas.
+**Layerskip**:https://github.com/facebookresearch/LayerSkip?tab=readme-ov-file
 
 ## Repository Structure
