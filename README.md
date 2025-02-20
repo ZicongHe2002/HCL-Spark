@@ -56,6 +56,8 @@ Our research is built upon a **three-stage evaluation process**:
 - **Optimal layers are model-dependent but consistent across tasks**: Our results generalize across different LLM architectures and datasets.
 
 ## Implementation
+**Access models**: In order to observe speedup, you need to access LLMs that have been trained using the LayerSkip recipe. We provide 4 checkpoints on [HuggingFace](https://huggingface.co/collections/facebook/layerskip-666b25c50c8ae90e1965727a) of different Llama models continually pretrained using the LayerSkip recipe:
+
 We conduct experiments using **open-weight LLMs**, including:
 - **LLaMA 2-7B**
 - **LLaMA 2-13B**
@@ -63,5 +65,6 @@ We conduct experiments using **open-weight LLMs**, including:
 - **LLaMA 3-8B**
 
 Our dataset sources include **TriviaQA** and **Natural Questions (NQ)**, ensuring a diverse benchmark for creativity and hallucination evaluation.
+
 
 ## Repository Structure
