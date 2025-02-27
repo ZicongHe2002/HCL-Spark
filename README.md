@@ -41,6 +41,7 @@ pip install -r requirements.txt
 
 ### Run
 ```bash
+cd code
 ./generate0.sh
 ```
 ## Methodology
