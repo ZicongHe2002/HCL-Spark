@@ -3,7 +3,7 @@ Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs' Decodin
 </h1>
 
 <p align='center'>
-<a href=""><img src="https://img.shields.io/badge/arXiv-2502.00000-b31b1b.svg" alt="ArXiv"></a> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="Liscence"></a>
+<a href=""><img src="[https://img.shields.io/badge/arXiv-2502.00000-b31b1b.svg](https://arxiv.org/abs/2503.02851)" alt="ArXiv"></a> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="Liscence"></a>
 
 </p>
 
